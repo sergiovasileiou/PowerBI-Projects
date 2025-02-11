@@ -73,4 +73,3 @@ Workbook containing practical exercises and analyses completed during the Data T
   - Dashboard optimization
 
 📫 **Submission Ready**  
-Please review workbook thoroughly before submitting to trainer.
