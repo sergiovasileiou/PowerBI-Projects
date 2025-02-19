@@ -71,6 +71,8 @@ Analyzing the Spotify dataset revealed several trends:
 - **Song Duration:**  
   - While most tracks are around four minutes long, there are notable outliers on both ends.
 
+![image](https://github.com/user-attachments/assets/10c50e60-a8ee-4852-8178-39b05ffa132c)
+
 These insights aid in understanding musical trends, which can be crucial for predictive analysis and strategic planning in the music industry. 🎶
 
 ### Task 2: Health Data Trends & NHS Recommendations 🏥
@@ -92,6 +94,9 @@ This analysis focused on health data to derive actionable insights for the NHS:
 
 - **Metric Correlations:**  
   - Minimal correlation between BMI, cholesterol, or blood pressure and some cancers points to the complexity of health determinants.
+
+  
+![Untitled Project (1)](https://github.com/user-attachments/assets/6d57c3cc-ad0e-496b-aaf2-033a1813635d)
 
 These findings can assist in formulating targeted public health initiatives and healthcare reforms. 📊
 
